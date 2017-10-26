@@ -4,8 +4,8 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="startapp_key">209250673</string>
-    <string name="admob_banner_key">ca-app-pub-8686543797458821/6708848666</string>
-    <string name="admob_insterstitial_key">ca-app-pub-8686543797458821/5204195304</string>
-    <string name="admob_rewarded_video_key">ca-app-pub-8686543797458821/1316921185</string>
+    <string name="startapp_key"></string>
+    <string name="admob_banner_key"></string>
+    <string name="admob_insterstitial_key"></string>
+    <string name="admob_rewarded_video_key"></string>
 </resources>
